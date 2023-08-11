@@ -5,30 +5,26 @@
     "matchData": [
         {
             "tournamentMeta": {
-                "tournamentSlug": "league-cup",
+                "tournamentSlug": "football-league-trophy",
                 "tournamentName": {
-                    "first": "EFL Cup",
-                    "full": "Carabao Cup",
-                    "abbreviation": "EFL Cup"
+                    "first": "EFL Trophy",
+                    "full": "Papa John's Trophy",
+                    "abbreviation": "EFL Trophy"
                 }
             },
             "tournamentDatesWithEvents": {
-                "Tuesday-8th-August": [
+                "Tuesday-9th-December": [
                     {
                         "round": {
-                            "key": "CFBB22023S1R1N",
-                            "name": {
-                                "first": "First Round North",
-                                "full": "First Round North",
-                                "abbreviation": "First Round North"
-                            }
+                            "key": "CFBB72014S1R4N",
+                            "name": null
                         },
                         "events": [
                             {
-                                "eventKey": "EFBO2372905",
-                                "startTime": "2023-08-08T19:45:00+01:00",
+                                "eventKey": "EFBO786857",
+                                "startTime": "2014-12-09T19:45:00+00:00",
                                 "isTBC": false,
-                                "minutesElapsed": 100,
+                                "minutesElapsed": 94,
                                 "minutesIntoAddedTime": null,
                                 "eventStatus": "post-event",
                                 "eventStatusNote": "Result",
@@ -36,79 +32,21 @@
                                 "eventOutcomeType": "shootout",
                                 "eventType": "Cup Short",
                                 "seriesWinner": null,
-                                "cpsId": "66368372",
+                                "cpsId": "30287764",
                                 "cpsLive": "yes",
                                 "homeTeam": {
-                                    "key": "TFBB37",
+                                    "key": "TFBB44",
                                     "scores": {
                                         "score": 2,
-                                        "halfTime": 1,
+                                        "halfTime": 2,
                                         "fullTime": 2,
-                                        "extraTime": null,
-                                        "shootout": 6,
+                                        "extraTime": 2,
+                                        "shootout": 4,
                                         "aggregate": null,
                                         "aggregateGoalsAway": null
                                     },
                                     "formation": null,
                                     "eventOutcome": "loss",
-                                    "name": {
-                                        "first": "Barnsley",
-                                        "full": "Barnsley",
-                                        "abbreviation": "Barnsley",
-                                        "last": null
-                                    },
-                                    "playerActions": [
-                                        {
-                                            "actions": [
-                                                {
-                                                    "type": "goal",
-                                                    "timeElapsed": 45,
-                                                    "addedTime": 3,
-                                                    "penalty": false,
-                                                    "ownGoal": false,
-                                                    "displayTime": "45'+3"
-                                                }
-                                            ],
-                                            "name": {
-                                                "first": "Herbie",
-                                                "full": "Herbie Kane",
-                                                "abbreviation": "Kane",
-                                                "last": "Kane"
-                                            }
-                                        },
-                                        {
-                                            "actions": [
-                                                {
-                                                    "type": "goal",
-                                                    "timeElapsed": 90,
-                                                    "addedTime": 8,
-                                                    "penalty": false,
-                                                    "ownGoal": false,
-                                                    "displayTime": "90'+8"
-                                                }
-                                            ],
-                                            "name": {
-                                                "first": "Aiden",
-                                                "full": "Aiden Marsh",
-                                                "abbreviation": "Marsh",
-                                                "last": "Marsh"
-                                            }
-                                        }
-                                    ]
-                                },
-                                "awayTeam": {
-                                    "key": "TFBB44",
-                                    "scores": {
-                                        "score": 2,
-                                        "halfTime": 1,
-                                        "fullTime": 2,
-                                        "extraTime": null,
-                                        "shootout": 7,
-                                        "aggregate": null,
-                                        "aggregateGoalsAway": null
-                                    },
-                                    "formation": null,
-                                    "eventOutcome": "win",
                                     "name": {
                                         "first": "Tranmere Rovers",
                                         "full": "Tranmere Rovers",
@@ -120,36 +58,94 @@
                                             "actions": [
                                                 {
                                                     "type": "goal",
-                                                    "timeElapsed": 23,
+                                                    "timeElapsed": 37,
                                                     "addedTime": 0,
                                                     "penalty": false,
                                                     "ownGoal": false,
-                                                    "displayTime": "23'"
+                                                    "displayTime": "37'"
                                                 }
                                             ],
                                             "name": {
-                                                "first": "Luke",
-                                                "full": "Luke Norris",
-                                                "abbreviation": "Norris",
-                                                "last": "Norris"
+                                                "first": "Max",
+                                                "full": "Max Power",
+                                                "abbreviation": "Power",
+                                                "last": "Power"
                                             }
                                         },
                                         {
                                             "actions": [
                                                 {
                                                     "type": "goal",
-                                                    "timeElapsed": 47,
+                                                    "timeElapsed": 43,
                                                     "addedTime": 0,
                                                     "penalty": false,
                                                     "ownGoal": false,
-                                                    "displayTime": "47'"
+                                                    "displayTime": "43'"
                                                 }
                                             ],
                                             "name": {
-                                                "first": "Samuel",
-                                                "full": "Samuel Taylor",
-                                                "abbreviation": "Taylor",
-                                                "last": "Taylor"
+                                                "first": "Olukayode",
+                                                "full": "Kayode Odejayi",
+                                                "abbreviation": "Odejayi",
+                                                "last": "Odejayi"
+                                            }
+                                        }
+                                    ]
+                                },
+                                "awayTeam": {
+                                    "key": "TFBB42",
+                                    "scores": {
+                                        "score": 2,
+                                        "halfTime": 0,
+                                        "fullTime": 2,
+                                        "extraTime": 2,
+                                        "shootout": 5,
+                                        "aggregate": null,
+                                        "aggregateGoalsAway": null
+                                    },
+                                    "formation": null,
+                                    "eventOutcome": "win",
+                                    "name": {
+                                        "first": "Walsall",
+                                        "full": "Walsall",
+                                        "abbreviation": "Walsall",
+                                        "last": null
+                                    },
+                                    "playerActions": [
+                                        {
+                                            "actions": [
+                                                {
+                                                    "type": "goal",
+                                                    "timeElapsed": 63,
+                                                    "addedTime": 0,
+                                                    "penalty": false,
+                                                    "ownGoal": false,
+                                                    "displayTime": "63'"
+                                                }
+                                            ],
+                                            "name": {
+                                                "first": "Anthony",
+                                                "full": "Anthony Forde",
+                                                "abbreviation": "Forde",
+                                                "last": "Forde"
+                                            }
+                                        },
+                                        {
+                                            "actions": [
+                                                {
+                                                    "type": "goal",
+                                                    "timeElapsed": 80,
+                                                    "addedTime": 0,
+                                                    "penalty": false,
+                                                    "ownGoal": false,
+                                                    "displayTime": "80'"
+                                                }
+                                            ],
+                                            "name": {
+                                                "first": "Michael",
+                                                "full": "Michael Cain",
+                                                "abbreviation": "Cain",
+                                                "last": "Cain"
                                             }
                                         }
                                     ]
@@ -160,10 +156,10 @@
                                 },
                                 "venue": {
                                     "name": {
-                                        "abbreviation": "Oakwell",
-                                        "videCode": "Oakwell",
-                                        "first": "Oakwell",
-                                        "full": "Oakwell"
+                                        "abbreviation": "Prenton Park",
+                                        "videCode": "Prenton Park",
+                                        "first": "Prenton Park",
+                                        "full": "Prenton Park"
                                     },
                                     "homeCountry": "England"
                                 },
@@ -171,14 +167,14 @@
                                 "tournamentInfo": null,
                                 "eventActions": null,
                                 "startTimeInUKHHMM": "19:45",
-                                "comment": "Tranmere Rovers win 7-6 on penalties",
-                                "href": "/sport/football/66368372",
+                                "comment": "Walsall win 5-4 on penalties",
+                                "href": "/sport/football/30287764",
                                 "tournamentName": {
-                                    "first": "EFL Cup",
-                                    "full": "Carabao Cup",
-                                    "abbreviation": "EFL Cup"
+                                    "first": "EFL Trophy",
+                                    "full": "Papa John's Trophy",
+                                    "abbreviation": "EFL Trophy"
                                 },
-                                "tournamentSlug": "league-cup"
+                                "tournamentSlug": "football-league-trophy"
                             }
                         ]
                     }
