@@ -827,6 +827,7 @@ game_date,player_name,shirt_no,role
 2013-04-27,Sam Ramsbottom,23,sub
 2013-04-27,Ian Goodison,5,sub
 2013-04-27,Joe Thompson,7,sub
+2013-08-03,Ash Taylor,,starter
 2013-08-03,Danny Holmes,,starter
 2013-08-03,Steve Foster,,starter
 2013-08-03,Jean-Louis Akpa Akpro,,starter
@@ -834,17 +835,16 @@ game_date,player_name,shirt_no,role
 2013-08-03,Andy Robinson,,starter
 2013-08-03,Chris Atkinson,,starter
 2013-08-03,Ryan Lowe,,starter
-2013-08-03,Ash Taylor,,starter
-2013-08-03,Akpo Sodje,,starter
 2013-08-03,Evan Horwood,,starter
+2013-08-03,Akpo Sodje,,starter
 2013-08-03,Owain Fon Williams,,starter
 2013-08-03,Cole Stockton,,sub
-2013-08-03,Jason Mooney,,sub
 2013-08-03,Joe Thompson,,sub
 2013-08-03,Abdulai Bell-Baggie,,sub
 2013-08-03,James Rowe,,sub
 2013-08-03,Ian Goodison,,sub
 2013-08-03,Jason Koumas,,sub
+2013-08-03,Jason Mooney,,sub
 2013-08-06,Owain Fon Williams,1,starter
 2013-08-06,Andy Robinson,10,starter
 2013-08-06,James Rowe,12,starter
@@ -863,24 +863,24 @@ game_date,player_name,shirt_no,role
 2013-08-06,Jean-Louis Akpa Akpro,26,sub
 2013-08-06,Jason Mooney,33,sub
 2013-08-06,Ian Goodison,5,sub
-2013-08-10,Akpo Sodje,,starter
-2013-08-10,Chris Atkinson,,starter
-2013-08-10,Andy Robinson,,starter
-2013-08-10,Owain Fon Williams,,starter
-2013-08-10,Ash Taylor,,starter
-2013-08-10,Evan Horwood,,starter
 2013-08-10,Ryan Lowe,,starter
-2013-08-10,Danny Holmes,,starter
-2013-08-10,Joe Thompson,,starter
+2013-08-10,Akpo Sodje,,starter
+2013-08-10,Andy Robinson,,starter
+2013-08-10,Chris Atkinson,,starter
 2013-08-10,Max Power,,starter
+2013-08-10,Joe Thompson,,starter
+2013-08-10,Danny Holmes,,starter
 2013-08-10,Steve Foster,,starter
+2013-08-10,Evan Horwood,,starter
+2013-08-10,Ash Taylor,,starter
+2013-08-10,Owain Fon Williams,,starter
+2013-08-10,Cole Stockton,,sub
 2013-08-10,Jason Mooney,,sub
 2013-08-10,Ian Goodison,,sub
+2013-08-10,James Rowe,,sub
 2013-08-10,Jean-Louis Akpa Akpro,,sub
 2013-08-10,Jason Koumas,,sub
 2013-08-10,Abdulai Bell-Baggie,,sub
-2013-08-10,Cole Stockton,,sub
-2013-08-10,James Rowe,,sub
 2013-08-17,Owain Fon Williams,1,starter
 2013-08-17,Andy Robinson,10,starter
 2013-08-17,Chris Atkinson,14,starter
@@ -4084,8 +4084,8 @@ game_date,player_name,shirt_no,role
 2017-04-04,Scott Davies,1,starter
 2017-04-04,James Norwood,10,starter
 2017-04-04,Connor Jennings,11,starter
-2017-04-04,Lee Vaughan,2,starter
 2017-04-04,Adam Buxton,2,starter
+2017-04-04,Lee Vaughan,2,starter
 2017-04-04,Cole Stockton,23,starter
 2017-04-04,Jeff Hughes,24,starter
 2017-04-04,Liam Ridehalgh,3,starter
@@ -4189,7 +4189,7 @@ game_date,player_name,shirt_no,role
 2017-04-29,Aaron Collins,39,starter
 2017-04-29,Adam Mekki,7,starter
 2017-04-29,Tom Coughan,32,sub
-2017-04-29,Jack Flemming,36,sub
+2017-04-29,Jack Fleming,36,sub
 2017-04-29,Patrick Wharton,40,sub
 2017-04-29,Udoyen Akpan,41,sub
 2017-04-29,James Devine,42,sub
@@ -9893,23 +9893,3 @@ game_date,player_name,shirt_no,role
 2023-08-05,Reece McAlear,23,sub
 2023-08-05,Kieron Morris,7,sub
 2023-08-05,Luke Norris,9,sub
-2023-08-08,Joe Murphy,13,starter
-2023-08-08,Kristian Dennis,14,starter
-2023-08-08,Samuel Taylor,20,starter
-2023-08-08,Josef Yarney,21,starter
-2023-08-08,Paul Lewis,22,starter
-2023-08-08,Reece McAlear,23,starter
-2023-08-08,Jake Leake,3,starter
-2023-08-08,Tom Davies,5,starter
-2023-08-08,Kieron Morris,7,starter
-2023-08-08,Regan Hendry,8,starter
-2023-08-08,Luke Norris,9,starter
-2023-08-08,Luke McGee,1,sub
-2023-08-08,Kane Hemmings,10,sub
-2023-08-08,Josh Hawkes,11,sub
-2023-08-08,Charlie Jolley,12,sub
-2023-08-08,Chris Merrie,16,sub
-2023-08-08,Connor Jennings,18,sub
-2023-08-08,Harvey Saunders,19,sub
-2023-08-08,Lee O'Connor,2,sub
-2023-08-08,Jordan Turnbull,6,sub

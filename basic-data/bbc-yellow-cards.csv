@@ -211,8 +211,8 @@ game_date,player_name,card_min,card_inj_time
 2015-04-11,Janoi Donacien,76,0
 2015-04-11,Rory Donnelly,84,0
 2015-04-14,George Green,20,0
-2015-04-14,Max Power,90,5
 2015-04-14,Matt Hill,90,5
+2015-04-14,Max Power,90,5
 2015-04-14,Owain Fon Williams,90,7
 2015-04-25,Adam Dugdale,18,0
 2015-04-25,Michael Ihiekwe,83,0
@@ -376,7 +376,7 @@ game_date,player_name,card_min,card_inj_time
 2017-04-17,Steve McNulty,66,0
 2017-04-17,Andy Mangan,90,0
 2017-04-22,James Wallace,35,0
-2017-04-29,Jack Flemming,76,0
+2017-04-29,Jack Fleming,76,0
 2017-04-29,Luke Pilling,85,0
 2017-05-03,Lois Maynard,82,0
 2017-05-03,James Wallace,90,0
@@ -462,8 +462,8 @@ game_date,player_name,card_min,card_inj_time
 2018-04-21,Josh Ginnelly,77,0
 2018-04-24,Declan Drysdale,85,0
 2018-05-05,Oliver Norburn,57,0
-2018-05-05,Steve McNulty,109,0
 2018-05-05,Jay Harris,109,0
+2018-05-05,Steve McNulty,109,0
 2018-05-12,Connor Jennings,88,0
 2018-08-04,Jay Harris,90,1
 2018-08-11,Steve McNulty,70,0
@@ -795,8 +795,8 @@ game_date,player_name,card_min,card_inj_time
 2022-03-19,Elliott Nevitt,47,0
 2022-03-26,Sam Foley,82,0
 2022-03-26,Charlie Jolley,84,0
-2022-03-26,Tom Davies,90,6
 2022-03-26,Peter Clarke,90,6
+2022-03-26,Tom Davies,90,6
 2022-04-02,Kane Hemmings,43,0
 2022-04-02,Tom Davies,44,0
 2022-04-02,Josh Dacres-Cogley,88,0
@@ -864,8 +864,8 @@ game_date,player_name,card_min,card_inj_time
 2022-12-29,Jordan Turnbull,90,3
 2023-01-01,Tom Davies,72,0
 2023-01-07,Joel Mumbongo,42,0
-2023-01-07,Kane Hemmings,64,0
 2023-01-07,Kieron Morris,64,0
+2023-01-07,Kane Hemmings,64,0
 2023-01-07,Lee O'Connor,90,6
 2023-01-14,Jordan Turnbull,57,0
 2023-01-14,Kieron Morris,84,0
@@ -903,5 +903,3 @@ game_date,player_name,card_min,card_inj_time
 2023-05-08,Tom Davies,71,0
 2023-08-05,Lee O'Connor,35,0
 2023-08-05,Regan Hendry,90,6
-2023-08-08,Jake Leake,69,0
-2023-08-08,Paul Lewis,90,2
